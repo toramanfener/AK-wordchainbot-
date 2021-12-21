@@ -32,12 +32,12 @@ async def cmd_help(message: types.Message) -> None:
             "/troubleshoot - Resolve common issues\n"
             "/reqaddword - Request addition of words\n"
             "/feedback - Send feedback to bot owner\n\n"
-            "You may message [Jono](tg://user?id=463998526) "
+            "You may message [JOKER TG 🇮🇳](https://t.me/IAM_A_JOKER) "
             "in *English / Cantonese* if you have issues with the bot.\n"
-            "Official Group: @on9wordchain\n"
-            "Word Additions Channel (with status updates): @on9wcwa\n"
-            "Source Code: [jonowo/on9wordchainbot](https://github.com/jonowo/on9wordchainbot)\n"
-            "Epic icon designed by [Adri](tg://user?id=303527690)"
+            "Official Group: @Ls_Supportz & @Ak_Bot_SupportGroup"
+            "Word Additions OWNER: @IAM_A_JOKER\n"
+            "Source Code: [Ask to my owner](https://t.me/IAM_A_JOKER)\n"
+            "Epic icon designed by [joker tg 🇮🇳](https://t.me/IAM_A_JOKER)"
         ),
         disable_web_page_preview=True,
         allow_sending_without_reply=True
@@ -62,7 +62,7 @@ async def cmd_gameinfo(message: types.Message) -> None:
             "Each player's score is their cumulative word length. "
             "The lowest scoring players are eliminated after each round.\n\n"
             "/startmelim - Mixed elimination game (donation reward)\n"
-            "Elimination game with different modes. Try at @on9wordchain."
+            "Elimination game with different modes. Try at."
         ),
         allow_sending_without_reply=True
     )
