@@ -28,7 +28,7 @@ PostgreSQL 11+ \
 > answers when they reply to the bot.
 
 # DEPLOY
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akbotmakersnew/AK-wordchainbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akbotmakersnew/AK-wordchainbot-)
 
 ### Configuration
 Rename [config_format.json](config_format.json) to `config.json` and edit the following constants:
