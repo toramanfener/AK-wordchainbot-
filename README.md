@@ -6,7 +6,7 @@ Ak Word Chain Bot hosts games of word chain in Telegram groups.
 
 # OWNER
 
-- [Official Group](https://t.me/IAM_A_JOKER)
+- [JOKER TG 🇮🇳](https://t.me/IAM_A_JOKER)
 
 ### Roadmap
 - Make required letter game more reasonable
