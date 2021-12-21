@@ -27,6 +27,9 @@ PostgreSQL 11+ \
 > which is on by default. Otherwise, leaving privacy mode on, the bot will only receive players'
 > answers when they reply to the bot.
 
+# DEPLOY
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akbotmakersnew/Ak-wordchainbot)
+
 ### Configuration
 Rename [config_format.json](config_format.json) to `config.json` and edit the following constants:
 
