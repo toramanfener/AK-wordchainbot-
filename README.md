@@ -1,14 +1,12 @@
-# On9 Word Chain Bot
-![On9 Word Chain Bot logo](https://i.imgur.com/B4hjMC5.jpg)
+# Ak Word Chain Bot
+![Akbotmakersnew logo](https://telegra.ph/file/7056d413f38f54f2119d7.jpg)
 
-(Epic icon by [@AdriTheDreamer](https://github.com/AdriTheDreamer)) 
 
-On9 Word Chain Bot hosts games of word chain in Telegram groups.
+Ak Word Chain Bot hosts games of word chain in Telegram groups.
 
-### Telegram Links
-- [On9 Word Chain Bot](https://t.me/on9wordchainbot) (Live Version)
-- [Official Group](https://t.me/on9wordchain)
-- [Word Additions Channel](https://t.me/on9wcwa)
+# OWNER
+
+- [Official Group](https://t.me/IAM_A_JOKER)
 
 ### Roadmap
 - Make required letter game more reasonable
