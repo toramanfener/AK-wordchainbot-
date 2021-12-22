@@ -1,12 +1,12 @@
 {
-    "TOKEN": "",
-    "ON9BOT_TOKEN": "",
-    "DB_URI": "",
+    "TOKEN": "5058152352:AAF6aq_F9eeQiTzngKeq12rVYO49Aj9hQa4",
+    "ON9BOT_TOKEN": "5058152352:AAF6aq_F9eeQiTzngKeq12rVYO49Aj9hQa4",
+    "DB_URI": "mongodb+srv://agarta01:44malatya22@cluster0.advkm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     "PROVIDER_TOKEN": "",
-    "OWNER_ID": 69420,
-    "ADMIN_GROUP_ID": 69420,
-    "OFFICIAL_GROUP_ID": 69420,
-    "WORD_ADDITION_CHANNEL_ID": 69420,
-    "VIP": [],
-    "VIP_GROUP": []
+    "OWNER_ID": 5009975627,
+    "ADMIN_GROUP_ID": -1001793811732,
+    "OFFICIAL_GROUP_ID": -1001793811732,
+    "WORD_ADDITION_CHANNEL_ID": -1001628897196,
+    "VIP": Dnztrmn[],
+    "VIP_GROUP": SamataSohbet[]
 }
