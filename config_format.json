@@ -7,6 +7,8 @@
     "ADMIN_GROUP_ID": -1001793811732,
     "OFFICIAL_GROUP_ID": -1001793811732,
     "WORD_ADDITION_CHANNEL_ID": -1001628897196,
-    "VIP": Dnztrmn[],
-    "VIP_GROUP": SamataSohbet[]
+    "VIP": [Dnztrmn],
+    "VIP_GROUP": [SamataSohbet]
+
+
 }
