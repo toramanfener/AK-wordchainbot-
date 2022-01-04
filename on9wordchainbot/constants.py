@@ -10,16 +10,16 @@ logger.info("Loading constants from config file")
 with open(filename) as f:
     config = json.load(f)
 
-TOKEN = config["TOKEN"]
-ON9BOT_TOKEN = config["ON9BOT_TOKEN"]
-DB_URI = config["DB_URI"]
+TOKEN = config["5036197906:AAEs-DDN0X_DCa8K66zYQsXkz5w8GSaFgtI"]
+ON9BOT_TOKEN = config["5093671528:AAEpbDvCfJdb2ZFK1i9rSHupGqoZTHC1sI4"]
+DB_URI = config["mongodb+srv://agarta01:44malatya22@cluster0.advkm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"]
 PROVIDER_TOKEN = config["PROVIDER_TOKEN"]
-OWNER_ID = config["OWNER_ID"]
-ADMIN_GROUP_ID = config["ADMIN_GROUP_ID"]
-OFFICIAL_GROUP_ID = config["OFFICIAL_GROUP_ID"]
-WORD_ADDITION_CHANNEL_ID = config["WORD_ADDITION_CHANNEL_ID"]
-VIP = config["VIP"]
-VIP_GROUP = config["VIP_GROUP"]
+OWNER_ID = config["5038665445"]
+ADMIN_GROUP_ID = config["-1001793811732"]
+OFFICIAL_GROUP_ID = config["-1001793811732"]
+WORD_ADDITION_CHANNEL_ID = config["-1001602923043"]
+VIP = config["Dnztrmn"]
+VIP_GROUP = config["Keyfialemsohbet"]
 
 WORDLIST_SOURCE = "https://raw.githubusercontent.com/dwyl/english-words/master/words.txt"
 
