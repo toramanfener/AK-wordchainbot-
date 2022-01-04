@@ -1,6 +1,6 @@
 {
- "name": "Ak-WordChainBot",
- "description": "Telegram Word Chain Game Bot",
+ "name": "Tubidy Kelime Oyunu",
+ "description": "Tubidy Kelime Oyun Botu",
  "keywords": [
    "telegram",
    "best",
@@ -10,47 +10,47 @@
   ],
   "repository": "https://github.com/Akbotmakersnew/Ak-wordchainbot",
   "env": {
-    "TOKEN": {
+    "5036197906:AAEs-DDN0X_DCa8K66zYQsXkz5w8GSaFgtI": {
       "description": "A Telegram bot token from @botfather.",
       "required": true
     },
-    "ON9BOT_TOKEN": {
+    "5093671528:AAEpbDvCfJdb2ZFK1i9rSHupGqoZTHC1sI4": {
       "description": "Another Telegram bot token for the virtual player bot. Can be the same as TOKEN.",
       "required": true
     },
-    "DB_URI": {
+    "mongodb+srv://agarta01:44malatya22@cluster0.advkm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority": {
       "description": "From mongodb.com",
       "required": true
     },
-    "OWNER_ID": {
+    "5038665445": {
       "description": "Telegram user id of the bot owner.",
       "required": true
     },
-    "API_HASH": {
+    "48e31b47eafe2be8330808c05c641d1a": {
       "description": "From my.telegram.org",
       "required": true
     },
-    "API_ID": {
+    "18195990": {
       "description": "From my.telegram.org",
       "required": true
     },
-    "ADMIN_GROUP_ID": {
+    "-1001793811732": {
       "description": "Telegram group id of the bot admin group. Error messages and word addition requests are sent here.",
       "required": true
     },
-    "OFFICIAL_GROUP_ID": {
+    "-1001793811732": {
       "description": "Telegram group id of the official group of the bot.",
       "required": false
     },
-    "WORD_ADDITION_CHANNEL_ID": {
+    "-1001602923043": {
       "description": "Telegram channel id of the channel to announce word additions.",
       "required": true
     },
-    "VIP": {
+    "dnztrmn": {
       "description": " A list of Telegram user ids designated as VIPs.",
       "required": true
     },
-    "VIP_GROUP": {
+    "keyfialemsohbet": {
       "description": "A list of Telegram group ids designated as VIP groups.",
       "required": false
     }
