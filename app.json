@@ -1,0 +1,66 @@
+{
+ "name": "Ak-WordChainBot",
+ "description": "Telegram Word Chain Game Bot",
+ "keywords": [
+   "telegram",
+   "best",
+   "game",
+   "bot",
+   "3"
+  ],
+  "repository": "https://github.com/Akbotmakersnew/Ak-wordchainbot",
+  "env": {
+    "TOKEN": {
+      "description": "A Telegram bot token from @botfather.",
+      "required": true
+    },
+    "ON9BOT_TOKEN": {
+      "description": "Another Telegram bot token for the virtual player bot. Can be the same as TOKEN.",
+      "required": true
+    },
+    "DB_URI": {
+      "description": "From mongodb.com",
+      "required": true
+    },
+    "OWNER_ID": {
+      "description": "Telegram user id of the bot owner.",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "From my.telegram.org",
+      "required": true
+    },
+    "API_ID": {
+      "description": "From my.telegram.org",
+      "required": true
+    },
+    "ADMIN_GROUP_ID": {
+      "description": "Telegram group id of the bot admin group. Error messages and word addition requests are sent here.",
+      "required": true
+    },
+    "OFFICIAL_GROUP_ID": {
+      "description": "Telegram group id of the official group of the bot.",
+      "required": false
+    },
+    "WORD_ADDITION_CHANNEL_ID": {
+      "description": "Telegram channel id of the channel to announce word additions.",
+      "required": true
+    },
+    "VIP": {
+      "description": " A list of Telegram user ids designated as VIPs.",
+      "required": true
+    },
+    "VIP_GROUP": {
+      "description": "A list of Telegram group ids designated as VIP groups.",
+      "required": false
+    }
+  },
+  "addons": [
+    {
+      "plan": "heroku-postgresql",
+      "options": {
+        "version": "11"
+      }
+    }
+  ]
+}
